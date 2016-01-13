@@ -18,8 +18,8 @@ For full instructions on setting up PyAV and ffmpeg go to http://mikeboers.githu
     - OS X
         - brew install ffmpeg pkg-config (one liner, pretty cool)
     - Ubuntu 14.04 LTS
-        sudo apt-get install -y python-dev pkg-config
-        sudo apt-get install -y \
+        - sudo apt-get install -y python-dev pkg-config
+        - sudo apt-get install -y \
             libavformat-dev libavcodec-dev libavdevice-dev \
             libavutil-dev libswscale-dev libavresample-dev
     - For other OSs, please visit http://mikeboers.github.io/PyAV/installation.html for full installation instructions
