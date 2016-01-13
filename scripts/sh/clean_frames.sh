@@ -1,0 +1,1 @@
+find media/frames/ -type f -delete
