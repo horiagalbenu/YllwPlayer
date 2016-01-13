@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+frames/
+.DS_Store
+.idea/
